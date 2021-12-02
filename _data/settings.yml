@@ -8,4 +8,4 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/lauren-marsh-ai/'}
 
 contacts:
-- {name: 'Lauren Marsh', title: 'Undergraduate Student', department: 'Applied Mathematics', institution: 'University of Colorado Boulder', phone: '(858) 344-9480', email: 'laurenarmarsh@gmail.com', image: 'assets/img/contact.jpg'}
+- {name: 'Lauren Marsh', title: 'Undergraduate Student', department: 'Applied Mathematics', institution: 'University of Colorado Boulder', email: 'laurenarmarsh@gmail.com', image: 'assets/img/contact.jpg'}
