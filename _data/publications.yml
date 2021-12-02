@@ -1,8 +1,8 @@
 featured:
 - {name: 'Interactive Code-Category Visualization', url: 'https://observablehq.com/@lauren-marsh/drag-click-thematic-mapping'}
-- {name: 'Steepest Descent vs the Conjugate Gradient Method: An Adventure in Linear System Solvers', url: ''}
+- {name: 'Steepest Descent vs the Conjugate Gradient Method: An Adventure in Linear System Solvers', url: '/publications/Linear_Solvers_Project.pdf'}
 
 index:
 - {name: 'Interactive Code-Category Visualization', url: 'https://observablehq.com/@lauren-marsh/drag-click-thematic-mapping'}
-- {name: 'Steepest Descent vs the Conjugate Gradient Method: An Adventure in Linear System Solvers', url: ''}
+- {name: 'Steepest Descent vs the Conjugate Gradient Method: An Adventure in Linear System Solvers', url: '/publications/Linear_Solvers_Project.pdf'}
 
